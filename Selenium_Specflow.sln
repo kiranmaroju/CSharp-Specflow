@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_Specflow", "Learn_Specflow\Selenium_Specflow.csproj", "{C71769E6-E009-48FE-B5BF-06D9416023FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium_Specflow", "Selenium_Specflow\Selenium_Specflow.csproj", "{C71769E6-E009-48FE-B5BF-06D9416023FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
